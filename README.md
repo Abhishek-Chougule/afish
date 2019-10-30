@@ -1,7 +1,7 @@
 
 # __________________________________
-# THIS PROJECT HAVE BEEN MOVED TO HIDDENEYE  
-# FOR MORE UPDATES VISIT: https://github.com/DarkSecDevelopers/HiddenEye  
+# THIS PROJECT HAVE BEEN MOVED TO AbhishekChougule  
+# FOR MORE UPDATES VISIT: https://github.com/coderabhishek/afish.git  
 # __________________________________
 <p align="center">
   <img src="logo.png">  
@@ -44,13 +44,13 @@
 
 ### CLONE
 ```
-git clone https://github.com/DarkSecDevelopers/HiddenEye.git
+git clone https://github.com/coderabhishek
 ```
 
 ### RUNNING (In Linux)
 
 ```
-cd HiddenEye
+cd afish
 ```
 
 ```
@@ -62,23 +62,23 @@ sudo pip3 install -r requirements.txt
 ```
 
 ```
-chmod 777 HiddenEye.py
+chmod 777 afish.py
 ```
 
 ```
-python3 HiddenEye.py
+python3 afish.py
 
 ```
    OR
    
 ```
-./HiddenEye.py    
+./afish.py    
 
 ```
 ### RUNNING (If distro based on Arch Linux)
 
 ```
-cd HiddenEye
+cd afish
 ```
 
 ```
@@ -93,17 +93,17 @@ sudo pip3 install -r requirements.txt
 ```
 
 ```
-chmod 777 HiddenEye.py
+chmod 777 afish.py
 ```
 
 ```
-python3 HiddenEye.py
+python3 afish.py
 
 ```
    OR
    
 ```
-./HiddenEye.py    
+./afishe.py    
 
 ```
 
@@ -128,7 +128,7 @@ pip3 install wget
 
 ```
 ```
-git clone https://github.com/DarkSecDevelopers/HiddenEye.git
+git clone https://github.com/coderabhishek/afish.git
 
 ```
 ```
@@ -160,7 +160,7 @@ After opening Copy and run this Single Command.
 
 ```
 ```
-pkg install git python php curl openssh grep && pip3 install wget && git clone https://github.com/DarkSecDevelopers/HiddenEye && cd HiddenEye && chmod 777 HiddenEye.py && python HiddenEye.py
+pkg install git python php curl openssh grep && pip3 install wget && git clone https://github.com/coderabhishek/afish && cd afish && chmod 777 afish.py && python afish.py
 
 ```
 
@@ -286,16 +286,7 @@ Taken from [LICENSE](LICENSE).
 ## Help us with Donation
 If you liked the work and want to support us all, you can donate :D
 
-<img src="https://github.com/An0nUD4Y/SocialFish/blob/master/donation.png"></img>
 
-Bitcoin Address: qpuwdfv3p3gpufzctjapp0dp9z4kkk9x6cgl2hhghe
-
-
-### VIDEO DEMO
-<p align="center">
-<a href="https://www.youtube.com/watch?v=dCuZR2C7Hhw">
-  <img src="https://raw.githubusercontent.com/An0nUD4Y/SocialFish/master/video.png" />
-</a></p>
 
 ## :octocat: DEVELOPERS // CONTRIBUTORS
 1. An0nUD4Y [ Instagram.com/its_udy ] - **Developer**
