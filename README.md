@@ -1,6 +1,6 @@
 # __________________________________
 # THIS PROJECT HAVE BEEN MOVED TO AbhishekChougule  
-# FOR MORE UPDATES VISIT: https://github.com/An0nym0us-Hacker/afish  
+# FOR MORE UPDATES VISIT: https://github.com/An0nym0us-MrAbhi/afish  
 # __________________________________
 # afish
 # Social Fishing Tool
