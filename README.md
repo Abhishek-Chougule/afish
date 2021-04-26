@@ -1,6 +1,6 @@
 # __________________________________
 # THIS PROJECT HAVE BEEN MOVED TO AbhishekChougule  
-# FOR MORE UPDATES VISIT: https://github.com/An0nym0us-MrAbhi/afish  
+# FOR MORE UPDATES VISIT: https://github.com/Abhishek-Chougule/afish  
 # __________________________________
 # afish
 # Social Fishing Tool
@@ -46,7 +46,7 @@
 
 ### CLONE
 ```
-git clone https://github.com/An0nym0us-MrAbhi/afish.git
+git clone https://github.com/Abhishek-Chougule/afish.git
 ```
 
 ### RUNNING (In Linux)
@@ -130,7 +130,7 @@ pip3 install wget
 
 ```
 ```
-git clone https://github.com/An0nym0us-MrAbhi/afish.git
+git clone https://github.com/Abhishek-Chougule/afish.git
 
 ```
 ```
@@ -162,7 +162,7 @@ After opening Copy and run this Single Command.
 
 ```
 ```
-pkg install git python php curl openssh grep && pip3 install wget && git clone https://github.com/An0nym0us-MrAbhi/afish && cd afish && chmod 777 afish.py && python afish.py
+pkg install git python php curl openssh grep && pip3 install wget && git clone https://github.com/Abhishek-Chougule/afish && cd afish && chmod 777 afish.py && python afish.py
 
 ```
 
